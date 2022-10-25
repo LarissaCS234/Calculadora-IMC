@@ -31,4 +31,5 @@ elif imc >=40:
     print("Obesidade classe III")
 else: 
     print("Dado invalido")
+print("Seja feliz, saudável e que se dane o resto.")
 print("-" * 30)
